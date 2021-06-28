@@ -5,6 +5,7 @@ I am an aspiring Data Scientist / Analyst from Australia.
 - I'm currently working on developing my skills in Data Science and programming using mainly Python, R and SQL.
 - I recently completed a Graduate Certificate in Data Science and am always looking for new content to learn and use in my personal projects.
 - I'm looking to collaborate on projects that use data for good and anything that helps progress areas such as medicine, environment, social wellbeing and other causes.
+- I'm looking for help with building my portfolio and connections to get into the field of Data Analytics/Science.
 <br>
 
 ## Connect with me
